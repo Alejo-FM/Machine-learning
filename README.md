@@ -11,6 +11,7 @@
 - Red Neuronal Recurrente.
 - Procesamiento de lengua natural usando redes neuronales recurrentes.
 - Visión Artificial con Redes Convolucionales.
+- Aprendizaje por refuerzo
 
 ## Estructura del repositorio
 
